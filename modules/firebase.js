@@ -1,12 +1,13 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-app.js";
 import { getFirestore } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-firestore.js";
 const firebaseConfig = {
-  apiKey: "AIzaSyCauuJgxgVw35fP1UFwGrtieTYi8WSnE2E",
-  authDomain: "aizzay.firebaseapp.com",
-  projectId: "aizzay",
-  storageBucket: "aizzay.firebasestorage.app",
-  messagingSenderId: "678616818805",
-  appId: "1:678616818805:web:b49fc5d1cacb3dda81c43c"
+  apiKey: "AIzaSyChiqFpO-oFCxeh389cCRpeYx9CIWe9yms",
+  authDomain: "aizzay-istri.firebaseapp.com",
+  projectId: "aizzay-istri",
+  storageBucket: "aizzay-istri.firebasestorage.app",
+  messagingSenderId: "394975896550",
+  appId: "1:394975896550:web:556491e973ef0266b56c27",
+  measurementId: "G-H2P9TJ4JTL"
 };
 
 const app = initializeApp(firebaseConfig);
