@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1786835292774_4x6gp8v75vp",
+    "tanggal": "2026-08-16",
+    "supplier": "Grosir Lokal",
+    "kategori": "snack",
+    "items": [
+      {
+        "kode": "KU",
+        "nama": "Kripik Usus",
+        "jumlahBal": 1,
+        "hargaPerBal": 80000,
+        "subtotal": 80000
+      }
+    ],
+    "total": 80000,
+    "statusBayar": "lunas",
+    "jumlahDibayar": 80000,
+    "sisaHutang": 0,
+    "catatan": "",
+    "sinkron": false
+  },
+  {
+    "id": "1786835470134_idcw69kozy",
+    "tanggal": "2026-08-16",
+    "supplier": "Grosir Lokal",
+    "kategori": "snack",
+    "items": [
+      {
+        "kode": "SR",
+        "nama": "Seblak Rafael ",
+        "jumlahBal": 1,
+        "hargaPerBal": 67000,
+        "subtotal": 67000
+      },
+      {
+        "kode": "SP",
+        "nama": "Siomay pedas",
+        "jumlahBal": 1,
+        "hargaPerBal": 69000,
+        "subtotal": 69000
+      },
+      {
+        "kode": "SK",
+        "nama": "Seblak kencur ",
+        "jumlahBal": 1,
+        "hargaPerBal": 68000,
+        "subtotal": 68000
+      },
+      {
+        "kode": "TP",
+        "nama": "Tulang pedes",
+        "jumlahBal": 1,
+        "hargaPerBal": 33000,
+        "subtotal": 33000
+      },
+      {
+        "kode": "SB",
+        "nama": "Seblak Basreng ",
+        "jumlahBal": 1,
+        "hargaPerBal": 57000,
+        "subtotal": 57000
+      }
+    ],
+    "total": 294000,
+    "statusBayar": "lunas",
+    "jumlahDibayar": 294000,
+    "sisaHutang": 0,
+    "catatan": "",
+    "sinkron": false
+  }
+]

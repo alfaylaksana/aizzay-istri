@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1786835292777_6gr1uftbrtt",
+    "tanggal": "2026-08-16",
+    "kas": "usaha",
+    "jenis": "keluar",
+    "nominal": 80000,
+    "catatan": "Kulakan Grosir Lokal (16-08-2026)",
+    "sumber": "belanja",
+    "sumberId": "1786835292774_4x6gp8v75vp",
+    "sinkron": false
+  },
+  {
+    "id": "1786835470135_c5rsok5x0b",
+    "tanggal": "2026-08-16",
+    "kas": "usaha",
+    "jenis": "keluar",
+    "nominal": 294000,
+    "catatan": "Kulakan Grosir Lokal (16-08-2026)",
+    "sumber": "belanja",
+    "sumberId": "1786835470134_idcw69kozy",
+    "sinkron": false
+  }
+]
