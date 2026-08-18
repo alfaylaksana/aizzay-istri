@@ -1,5 +1,19 @@
 [
   {
+    "id": "G",
+    "kode": "G",
+    "nama": "Gabus",
+    "kategori": "Gurih",
+    "berat": 2,
+    "modal": 64000,
+    "hargaToko": 5000,
+    "hargaJual": 6000,
+    "rasioPacking": 24,
+    "catatan": "",
+    "status": "aktif",
+    "sinkron": false
+  },
+  {
     "id": "KM",
     "kode": "KM",
     "nama": "Kacang Mix",
@@ -56,6 +70,20 @@
     "sinkron": false
   },
   {
+    "id": "MS",
+    "kode": "MS",
+    "nama": "Makaroni spiral ",
+    "kategori": "Pedas",
+    "berat": 4,
+    "modal": 106000,
+    "hargaToko": 7000,
+    "hargaJual": 8000,
+    "rasioPacking": 32,
+    "catatan": "",
+    "status": "aktif",
+    "sinkron": false
+  },
+  {
     "id": "SB",
     "kode": "SB",
     "nama": "Seblak Basreng ",
@@ -64,6 +92,20 @@
     "modal": 57000,
     "hargaToko": 9000,
     "hargaJual": 10000,
+    "rasioPacking": 15,
+    "catatan": "",
+    "status": "aktif",
+    "sinkron": false
+  },
+  {
+    "id": "SJ ",
+    "kode": "SJ ",
+    "nama": "Seblak jengkol ",
+    "kategori": "Pedas",
+    "berat": 2,
+    "modal": 67000,
+    "hargaToko": 7000,
+    "hargaJual": 8000,
     "rasioPacking": 15,
     "catatan": "",
     "status": "aktif",

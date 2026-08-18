@@ -20,5 +20,38 @@
     "sumber": "belanja",
     "sumberId": "1786835470134_idcw69kozy",
     "sinkron": false
+  },
+  {
+    "id": "1787048393091_0jmlbx4ubgi",
+    "tanggal": "2026-08-18",
+    "kas": "usaha",
+    "jenis": "masuk",
+    "nominal": 215000,
+    "catatan": "Setoran toko Lek shohib  (18-08-2026)",
+    "sumber": "toko",
+    "sumberId": "1787029261113_csgj05fbz0r",
+    "sinkron": false
+  },
+  {
+    "id": "1787056092173_5r4x6fvtbew",
+    "tanggal": "2026-08-18",
+    "kas": "usaha",
+    "jenis": "masuk",
+    "nominal": 44000,
+    "catatan": "Setoran toko Mb renita  (18-08-2026)",
+    "sumber": "toko",
+    "sumberId": "1787056051099_c8os41z20yn",
+    "sinkron": false
+  },
+  {
+    "id": "1787062913234_t1ruf1uv3zc",
+    "tanggal": "2026-08-18",
+    "kas": "usaha",
+    "jenis": "masuk",
+    "nominal": 123000,
+    "catatan": "Setoran toko Tilla  (18-08-2026)",
+    "sumber": "toko",
+    "sumberId": "1787062686680_y0vxea46d7",
+    "sinkron": false
   }
 ]
