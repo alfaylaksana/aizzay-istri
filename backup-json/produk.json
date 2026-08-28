@@ -1,5 +1,19 @@
 [
   {
+    "id": "BS",
+    "kode": "BS",
+    "nama": "Bakso stik ",
+    "kategori": "Pedas",
+    "berat": 2,
+    "modal": 30,
+    "hargaToko": 6000,
+    "hargaJual": 7000,
+    "rasioPacking": 30,
+    "catatan": "",
+    "status": "aktif",
+    "sinkron": false
+  },
+  {
     "id": "G",
     "kode": "G",
     "nama": "Gabus",
@@ -9,6 +23,20 @@
     "hargaToko": 5000,
     "hargaJual": 6000,
     "rasioPacking": 24,
+    "catatan": "",
+    "status": "aktif",
+    "sinkron": false
+  },
+  {
+    "id": "KK",
+    "kode": "KK",
+    "nama": "Krupuk kemplang ",
+    "kategori": "Gurih ",
+    "berat": 2,
+    "modal": 40000,
+    "hargaToko": 5000,
+    "hargaJual": 6000,
+    "rasioPacking": 20,
     "catatan": "",
     "status": "aktif",
     "sinkron": false

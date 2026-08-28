@@ -53,5 +53,16 @@
     "sumber": "toko",
     "sumberId": "1787062686680_y0vxea46d7",
     "sinkron": false
+  },
+  {
+    "id": "1787811318371_4cpnadjj2vq",
+    "tanggal": "2026-08-27",
+    "kas": "usaha",
+    "jenis": "masuk",
+    "nominal": 279000,
+    "catatan": "Setoran toko Lek shohib (27-08-2026)",
+    "sumber": "toko",
+    "sumberId": "1787028683804_q6jmgzuxmo",
+    "sinkron": false
   }
 ]

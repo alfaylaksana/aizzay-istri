@@ -1,5 +1,250 @@
 [
   {
+    "id": "1787028683804_q6jmgzuxmo",
+    "sisaHutang": 0,
+    "totalUangSettle": 279000,
+    "tanggalKirim": "2026-08-18",
+    "toko": "Lek shohib",
+    "statusBayar": "lunas",
+    "status": "selesai",
+    "items": [
+      {
+        "nama": "Seblak Basreng ",
+        "kode": "SB",
+        "jumlahKirim": 3,
+        "hargaToko": 9000
+      },
+      {
+        "nama": "Seblak Rafael ",
+        "hargaToko": 7000,
+        "kode": "SR",
+        "jumlahKirim": 3
+      },
+      {
+        "hargaToko": 6000,
+        "kode": "KU",
+        "nama": "Kripik Usus",
+        "jumlahKirim": 7
+      },
+      {
+        "jumlahKirim": 4,
+        "nama": "Seblak Mix",
+        "kode": "SM",
+        "hargaToko": 9000
+      },
+      {
+        "jumlahKirim": 4,
+        "nama": "Tulang pedes",
+        "hargaToko": 5000,
+        "kode": "TP"
+      },
+      {
+        "hargaToko": 9000,
+        "kode": "SP",
+        "jumlahKirim": 3,
+        "nama": "Siomay pedas"
+      },
+      {
+        "jumlahKirim": 4,
+        "hargaToko": 7000,
+        "nama": "Marning",
+        "kode": "M"
+      },
+      {
+        "kode": "KM",
+        "jumlahKirim": 2,
+        "hargaToko": 7000,
+        "nama": "Kacang Mix"
+      },
+      {
+        "hargaToko": 5000,
+        "jumlahKirim": 4,
+        "kode": "G",
+        "nama": "Gabus"
+      },
+      {
+        "kode": "SK",
+        "nama": "Seblak kencur ",
+        "jumlahKirim": 4,
+        "hargaToko": 7000
+      },
+      {
+        "jumlahKirim": 3,
+        "nama": "Makaroni daun jeruk ",
+        "hargaToko": 7000,
+        "kode": "MDJ"
+      },
+      {
+        "nama": "Makaroni spiral ",
+        "hargaToko": 7000,
+        "kode": "MS",
+        "jumlahKirim": 3
+      }
+    ],
+    "sinkron": false,
+    "jumlahDibayar": 279000,
+    "itemsSettle": [
+      {
+        "kode": "SB",
+        "nama": "Seblak Basreng ",
+        "jumlahKirim": 3,
+        "returBagus": 0,
+        "returRusakBks": 0,
+        "returMlempem": 0,
+        "returTengik": 0,
+        "jumlahRetur": 0,
+        "jumlahTerjual": 3,
+        "hargaToko": 9000,
+        "subtotal": 27000
+      },
+      {
+        "kode": "SR",
+        "nama": "Seblak Rafael ",
+        "jumlahKirim": 3,
+        "returBagus": 0,
+        "returRusakBks": 0,
+        "returMlempem": 0,
+        "returTengik": 0,
+        "jumlahRetur": 0,
+        "jumlahTerjual": 3,
+        "hargaToko": 7000,
+        "subtotal": 21000
+      },
+      {
+        "kode": "KU",
+        "nama": "Kripik Usus",
+        "jumlahKirim": 7,
+        "returBagus": 0,
+        "returRusakBks": 0,
+        "returMlempem": 0,
+        "returTengik": 0,
+        "jumlahRetur": 0,
+        "jumlahTerjual": 7,
+        "hargaToko": 6000,
+        "subtotal": 42000
+      },
+      {
+        "kode": "SM",
+        "nama": "Seblak Mix",
+        "jumlahKirim": 4,
+        "returBagus": 1,
+        "returRusakBks": 0,
+        "returMlempem": 0,
+        "returTengik": 0,
+        "jumlahRetur": 1,
+        "jumlahTerjual": 3,
+        "hargaToko": 9000,
+        "subtotal": 27000
+      },
+      {
+        "kode": "TP",
+        "nama": "Tulang pedes",
+        "jumlahKirim": 4,
+        "returBagus": 1,
+        "returRusakBks": 0,
+        "returMlempem": 0,
+        "returTengik": 0,
+        "jumlahRetur": 1,
+        "jumlahTerjual": 3,
+        "hargaToko": 5000,
+        "subtotal": 15000
+      },
+      {
+        "kode": "SP",
+        "nama": "Siomay pedas",
+        "jumlahKirim": 3,
+        "returBagus": 0,
+        "returRusakBks": 0,
+        "returMlempem": 0,
+        "returTengik": 0,
+        "jumlahRetur": 0,
+        "jumlahTerjual": 3,
+        "hargaToko": 9000,
+        "subtotal": 27000
+      },
+      {
+        "kode": "M",
+        "nama": "Marning",
+        "jumlahKirim": 4,
+        "returBagus": 0,
+        "returRusakBks": 0,
+        "returMlempem": 0,
+        "returTengik": 0,
+        "jumlahRetur": 0,
+        "jumlahTerjual": 4,
+        "hargaToko": 7000,
+        "subtotal": 28000
+      },
+      {
+        "kode": "KM",
+        "nama": "Kacang Mix",
+        "jumlahKirim": 2,
+        "returBagus": 1,
+        "returRusakBks": 0,
+        "returMlempem": 0,
+        "returTengik": 0,
+        "jumlahRetur": 1,
+        "jumlahTerjual": 1,
+        "hargaToko": 7000,
+        "subtotal": 7000
+      },
+      {
+        "kode": "G",
+        "nama": "Gabus",
+        "jumlahKirim": 4,
+        "returBagus": 1,
+        "returRusakBks": 0,
+        "returMlempem": 0,
+        "returTengik": 0,
+        "jumlahRetur": 1,
+        "jumlahTerjual": 3,
+        "hargaToko": 5000,
+        "subtotal": 15000
+      },
+      {
+        "kode": "SK",
+        "nama": "Seblak kencur ",
+        "jumlahKirim": 4,
+        "returBagus": 0,
+        "returRusakBks": 0,
+        "returMlempem": 0,
+        "returTengik": 0,
+        "jumlahRetur": 0,
+        "jumlahTerjual": 4,
+        "hargaToko": 7000,
+        "subtotal": 28000
+      },
+      {
+        "kode": "MDJ",
+        "nama": "Makaroni daun jeruk ",
+        "jumlahKirim": 3,
+        "returBagus": 0,
+        "returRusakBks": 0,
+        "returMlempem": 0,
+        "returTengik": 0,
+        "jumlahRetur": 0,
+        "jumlahTerjual": 3,
+        "hargaToko": 7000,
+        "subtotal": 21000
+      },
+      {
+        "kode": "MS",
+        "nama": "Makaroni spiral ",
+        "jumlahKirim": 3,
+        "returBagus": 0,
+        "returRusakBks": 0,
+        "returMlempem": 0,
+        "returTengik": 0,
+        "jumlahRetur": 0,
+        "jumlahTerjual": 3,
+        "hargaToko": 7000,
+        "subtotal": 21000
+      }
+    ],
+    "tanggalSettle": "2026-08-27",
+    "catatan": "Bonus buat toko 2 macam "
+  },
+  {
     "id": "1787029261113_csgj05fbz0r",
     "status": "selesai",
     "tanggalKirim": "2026-08-12",
@@ -649,6 +894,100 @@
     "totalUangSettle": 123000,
     "statusBayar": "lunas",
     "jumlahDibayar": 123000,
+    "sisaHutang": 0,
+    "catatan": "",
+    "sinkron": false
+  },
+  {
+    "id": "1787804148892_fvagfgr8jvc",
+    "tanggalKirim": "2026-08-27",
+    "toko": "Lek shohib ",
+    "items": [
+      {
+        "kode": "SM",
+        "nama": "Seblak Mix",
+        "jumlahKirim": 3,
+        "hargaToko": 9000
+      },
+      {
+        "kode": "KK",
+        "nama": "Krupuk kemplang ",
+        "jumlahKirim": 3,
+        "hargaToko": 5000
+      },
+      {
+        "kode": "MDJ",
+        "nama": "Makaroni daun jeruk ",
+        "jumlahKirim": 3,
+        "hargaToko": 7000
+      },
+      {
+        "kode": "SR",
+        "nama": "Seblak Rafael ",
+        "jumlahKirim": 2,
+        "hargaToko": 7000
+      },
+      {
+        "kode": "SP",
+        "nama": "Siomay pedas",
+        "jumlahKirim": 2,
+        "hargaToko": 9000
+      },
+      {
+        "kode": "SB",
+        "nama": "Seblak Basreng ",
+        "jumlahKirim": 3,
+        "hargaToko": 9000
+      },
+      {
+        "kode": "SK",
+        "nama": "Seblak kencur ",
+        "jumlahKirim": 3,
+        "hargaToko": 7000
+      },
+      {
+        "kode": "SJ ",
+        "nama": "Seblak jengkol ",
+        "jumlahKirim": 2,
+        "hargaToko": 7000
+      },
+      {
+        "kode": "G",
+        "nama": "Gabus",
+        "jumlahKirim": 2,
+        "hargaToko": 5000
+      },
+      {
+        "kode": "BS",
+        "nama": "Bakso stik ",
+        "jumlahKirim": 2,
+        "hargaToko": 6000
+      },
+      {
+        "kode": "KU",
+        "nama": "Kripik Usus",
+        "jumlahKirim": 5,
+        "hargaToko": 6000
+      },
+      {
+        "kode": "KM",
+        "nama": "Kacang Mix",
+        "jumlahKirim": 2,
+        "hargaToko": 7000
+      },
+      {
+        "kode": "M",
+        "nama": "Marning",
+        "jumlahKirim": 4,
+        "hargaToko": 7000
+      }
+    ],
+    "status": "berjalan",
+    "tanggalSettle": null,
+    "itemsSettle": null,
+    "totalUangSettle": 0,
+    "statusBayar": null,
+    "jumlahDibayar": 0,
     "sisaHutang": 0,
     "catatan": "",
     "sinkron": false
