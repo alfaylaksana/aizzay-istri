@@ -114,15 +114,15 @@
   {
     "id": "SB",
     "kode": "SB",
-    "nama": "Seblak Basreng ",
+    "status": "nonaktif",
     "kategori": "Pedas",
+    "nama": "Seblak Basreng ",
     "berat": 2,
     "modal": 57000,
-    "hargaToko": 9000,
-    "hargaJual": 10000,
-    "rasioPacking": 15,
     "catatan": "",
-    "status": "aktif",
+    "rasioPacking": 15,
+    "hargaJual": 10000,
+    "hargaToko": 9000,
     "sinkron": false
   },
   {
@@ -155,17 +155,17 @@
   },
   {
     "id": "SM",
-    "kode": "SM",
-    "nama": "Seblak Mix",
     "kategori": "Pedas",
-    "berat": 2,
-    "modal": 68000,
-    "hargaToko": 9000,
     "hargaJual": 10000,
-    "rasioPacking": 15,
+    "hargaToko": 9000,
+    "modal": 68000,
+    "sinkron": false,
+    "nama": "Seblak Mix",
+    "berat": 2,
     "catatan": "",
-    "status": "aktif",
-    "sinkron": false
+    "status": "nonaktif",
+    "kode": "SM",
+    "rasioPacking": 15
   },
   {
     "id": "SP",
