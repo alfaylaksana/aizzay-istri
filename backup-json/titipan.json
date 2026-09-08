@@ -1225,5 +1225,75 @@
     "tanggalSettle": null,
     "tanggalKirim": "2026-09-02",
     "sisaHutang": 0
+  },
+  {
+    "id": "1788864810013_9l2wffvw80a",
+    "sinkron": false,
+    "tanggalSettle": null,
+    "statusBayar": null,
+    "totalUangSettle": 0,
+    "toko": "Lek shohib",
+    "jumlahDibayar": 0,
+    "sisaHutang": 0,
+    "itemsSettle": null,
+    "items": [
+      {
+        "kode": "TP",
+        "nama": "Tulang pedes",
+        "jumlahKirim": 4,
+        "hargaToko": 5000
+      },
+      {
+        "hargaToko": 7000,
+        "jumlahKirim": 3,
+        "kode": "SK",
+        "nama": "Seblak kencur "
+      },
+      {
+        "hargaToko": 7000,
+        "jumlahKirim": 3,
+        "kode": "SR",
+        "nama": "Seblak Rafael "
+      },
+      {
+        "nama": "Seblak Basreng ",
+        "kode": "SB",
+        "hargaToko": 9000,
+        "jumlahKirim": 3
+      },
+      {
+        "jumlahKirim": 3,
+        "nama": "Siomay pedas",
+        "kode": "SP",
+        "hargaToko": 9000
+      },
+      {
+        "hargaToko": 9000,
+        "jumlahKirim": 4,
+        "kode": "SM",
+        "nama": "Seblak Mix"
+      },
+      {
+        "hargaToko": 7000,
+        "kode": "M",
+        "nama": "Marning",
+        "jumlahKirim": 4
+      },
+      {
+        "jumlahKirim": 3,
+        "kode": "KM",
+        "nama": "Kacang Mix",
+        "hargaToko": 7000
+      },
+      {
+        "nama": "Kripik Usus",
+        "kode": "KU",
+        "jumlahKirim": 8,
+        "hargaToko": 6000
+      }
+    ],
+    "catatan": "",
+    "tanggalKirim": "2026-09-09",
+    "status": "berjalan"
   }
 ]
